@@ -105,7 +105,7 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[100%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src='src\assets\Simple Professional Name Introduction LinkedIn Profile Picture-modified.png'
+              src='src\assets\profile.png'
               // src={mine}
               alt="mine"
             />
